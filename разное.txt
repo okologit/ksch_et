@@ -1,0 +1,33 @@
+@ vanier, audoin quantum physics
+
+Since the probabilities of interest depend on the interaction time z and
+on the time T = t L / l spent between the two interaction regions, it is
+most suitable to introduce the probability distribution function f(z), of
+the possible values of z. It is obviously related to the probability
+distribution function p ( u ) , of the atomic velocities, as is shown next.
+
+The distribution f(z) may be known from a computer analysis
+of the atom trajectories, including the effect of source and detector
+positions, of the emission angle, of the size of the caesium oven
+opening, of the hot-wire detector width, and of limiting apertures such
+as the magnet pole pieces and diaphragms.
+
+optical pumping and optical detection zones. The atom deflection, under the impact of the photons, is very small as shown in Appendix 5H and may be neglected
+
+
+
+
+@ wiki/ математическая модель
+
+Классификация моделей
+Линейные или нелинейные;
+Сосредоточенные или распределённые системы;
+Детерминированные или стохастические;
+Статические или динамические;
+Дискретные или непрерывные.
+
+
+
+
+
+Метод обратного преобразования: Вадзинский - стр.33
